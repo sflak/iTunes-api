@@ -1,0 +1,20 @@
+/*Sydney Flak
+sflak1@my.smccd.edu
+CIS 114
+itunes.html
+Final Exam
+5/27/16*/
+
+.songs-search-result {
+  border: 1px solid Gray;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.songs-search-result  .label{
+  display: inline-block;
+  width: 200px;
+}
+h1 {
+  display: inline;
+}
